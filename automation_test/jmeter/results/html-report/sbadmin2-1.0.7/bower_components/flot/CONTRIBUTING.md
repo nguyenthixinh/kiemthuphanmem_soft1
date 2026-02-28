@@ -5,6 +5,7 @@ work for us, and a faster and better response.
 
 ### Issues ###
 
+
 Issues are not a way to ask general questions about Flot. If you see unexpected
 behavior but are not 100% certain that it is a bug, please try posting to the
 [forum](http://groups.google.com/group/flot-graphs) first, and confirm that

@@ -8,6 +8,7 @@ to pan. The plugin defines plot.zoom({ center }), plot.zoomOut() and
 plot.pan( offset ) so you easily can add custom controls. It also fires
 "plotpan" and "plotzoom" events, useful for synchronizing plots.
 
+
 The plugin supports these options:
 
 	zoom: {

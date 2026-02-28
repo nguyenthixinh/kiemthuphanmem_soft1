@@ -9,6 +9,7 @@ pie chart, and have unpredictable results.  The values do NOT need to be
 passed in as percentages; the plugin will calculate the total and per-slice
 percentages internally.
 
+
 * Created by Brian Medendorp
 
 * Updated with contributions from btburnett3, Anthony Aragues and Xavi Ivars

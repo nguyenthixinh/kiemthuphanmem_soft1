@@ -5,7 +5,7 @@
   "ignore": [
     ".gitignore",
     "Gruntfile.js",
-    "README.md",
+    "README.md", 
     "package.json",
     "examples",
     "js/old"

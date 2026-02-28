@@ -6,6 +6,7 @@ Licensed under the MIT license.
 Set axis.mode to "time" to enable. See the section "Time series data" in
 API.txt for details.
 
+
 */
 
 (function($) {

@@ -9,6 +9,7 @@ allows you to plot such a dataset directly.
 To enable it, you must specify mode: "categories" on the axis with the textual
 labels, e.g.
 
+
 	$.plot("#placeholder", data, { xaxis: { mode: "categories" } });
 
 By default, the labels are ordered as they are met in the data series. If you

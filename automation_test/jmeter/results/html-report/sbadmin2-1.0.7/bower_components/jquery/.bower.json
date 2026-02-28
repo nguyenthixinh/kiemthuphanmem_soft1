@@ -8,7 +8,7 @@
     "build",
     "speed",
     "test",
-    "*.md",
+    "*.md", 
     "AUTHORS.txt",
     "Gruntfile.js",
     "package.json"

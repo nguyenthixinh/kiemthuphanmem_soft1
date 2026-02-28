@@ -4,7 +4,7 @@
 
 > Now support cdnjs & jsdelivr
 
-
+ 
 ## Installation
 
 * [npm](http://npmjs.org/)

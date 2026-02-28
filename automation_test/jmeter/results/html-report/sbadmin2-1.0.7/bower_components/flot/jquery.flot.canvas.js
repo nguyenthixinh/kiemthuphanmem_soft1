@@ -7,6 +7,7 @@ Flot normally produces certain elements, like axis labels and the legend, using
 HTML elements. This permits greater interactivity and customization, and often
 looks better, due to cross-browser canvas text inconsistencies and limitations.
 
+
 It can also be desirable to render the plot entirely in canvas, particularly
 if the goal is to save it as an image, or if Flot is being used in a context
 where the HTML DOM does not exist, as is the case within Node.js. This plugin

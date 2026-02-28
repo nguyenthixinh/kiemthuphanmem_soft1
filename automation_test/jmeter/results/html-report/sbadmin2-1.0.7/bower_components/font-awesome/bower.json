@@ -10,7 +10,7 @@
   "main": [
     "./css/font-awesome.css",
     "./fonts/*"
-  ],
+  ], 
   "ignore": [
     "*/.*",
     "*.json",

@@ -9,7 +9,7 @@
   "main": [
     "dist/metisMenu.js",
     "dist/metisMenu.css"
-  ],
+  ], 
   "keywords": [
     "twitter",
     "bootstrap",

@@ -6,6 +6,7 @@
  *
  * Released under the MIT license by Ole Laursen, October 2009.
  *
+ * 
  * Examples:
  *
  *   $.color.parse("#fff").scale('rgb', 0.25).add('a', -0.5).toString()

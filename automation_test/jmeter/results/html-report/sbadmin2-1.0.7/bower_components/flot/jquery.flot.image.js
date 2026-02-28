@@ -8,6 +8,7 @@ The data syntax is [ [ image, x1, y1, x2, y2 ], ... ] where (x1, y1) and
 in the plot. Image must be a fully loaded Javascript image (you can make one
 with new Image()). If the image is not complete, it's skipped when plotting.
 
+
 There are two helpers included for retrieving images. The easiest work the way
 that you put in URLs instead of images in the data, like this:
 

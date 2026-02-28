@@ -3,6 +3,7 @@
 Copyright (c) 2007-2014 IOLA and Ole Laursen.
 Licensed under the MIT license.
 
+
 The plugin assumes the data is sorted on x (or y if stacking horizontally).
 For line charts, it is assumed that if a line has an undefined gap (from a
 null point), then the line above it should have the same gap - insert zeros

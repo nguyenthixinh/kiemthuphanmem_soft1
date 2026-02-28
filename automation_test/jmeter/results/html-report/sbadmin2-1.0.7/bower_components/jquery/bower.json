@@ -6,7 +6,7 @@
   "ignore": [
     "**/.*",
     "build",
-    "speed",
+    "speed", 
     "test",
     "*.md",
     "AUTHORS.txt",

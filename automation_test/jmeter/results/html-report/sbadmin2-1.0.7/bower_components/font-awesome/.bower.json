@@ -10,7 +10,7 @@
     "OFL-1.1",
     "MIT",
     "CC-BY-3.0"
-  ],
+  ], 
   "main": [
     "./css/font-awesome.css",
     "./fonts/*"

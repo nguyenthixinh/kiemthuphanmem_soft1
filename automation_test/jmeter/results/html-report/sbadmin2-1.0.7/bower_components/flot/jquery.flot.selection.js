@@ -5,6 +5,7 @@ Licensed under the MIT license.
 
 The plugin supports these options:
 
+
 selection: {
 	mode: null or "x" or "y" or "xy",
 	color: color,

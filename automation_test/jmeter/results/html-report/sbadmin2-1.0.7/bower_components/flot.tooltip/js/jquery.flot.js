@@ -5,6 +5,7 @@ Licensed under the MIT license.
 
 */
 
+
 // first an inline dependency, jquery.colorhelpers.js, we inline it here
 // for convenience
 

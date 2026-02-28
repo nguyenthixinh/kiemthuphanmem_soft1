@@ -2,6 +2,7 @@
 
 #### How much data can Flot cope with? ####
 
+
 Flot will happily draw everything you send to it so the answer
 depends on the browser. The excanvas emulation used for IE (built with
 VML) makes IE by far the slowest browser so be sure to test with that

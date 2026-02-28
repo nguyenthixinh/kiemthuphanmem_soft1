@@ -2,7 +2,7 @@
     // plugin options, default values
     var defaultOptions = {
         tooltip: false,
-        tooltipOpts: {
+        tooltipOpts: { 
             id: "flotTip",
             content: "%s | X: %x | Y: %y",
             // allowed templates are:

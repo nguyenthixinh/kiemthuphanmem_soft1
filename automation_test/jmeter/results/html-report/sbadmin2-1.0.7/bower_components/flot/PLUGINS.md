@@ -1,5 +1,6 @@
 ## Writing plugins ##
 
+
 All you need to do to make a new plugin is creating an init function
 and a set of options (if needed), stuffing it into an object and
 putting it in the $.plot.plugins array. For example:

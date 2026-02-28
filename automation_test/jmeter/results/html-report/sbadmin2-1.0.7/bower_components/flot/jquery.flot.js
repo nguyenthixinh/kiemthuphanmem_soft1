@@ -8,6 +8,7 @@ Licensed under the MIT license.
 // first an inline dependency, jquery.colorhelpers.js, we inline it here
 // for convenience
 
+
 /* Plugin for jQuery for working with colors.
  *
  * Version 1.1.

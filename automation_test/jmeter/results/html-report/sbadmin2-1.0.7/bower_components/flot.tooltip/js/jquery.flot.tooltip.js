@@ -6,6 +6,7 @@
  * authors: Krzysztof Urbas @krzysu [myviews.pl],Evan Steinkerchner @Roundaround
  * website: https://github.com/krzysu/flot.tooltip
  * 
+ * 
  * build on 2014-08-04
  * released under MIT License, 2012
 */ 

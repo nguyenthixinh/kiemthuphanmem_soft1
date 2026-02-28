@@ -2,6 +2,7 @@
 
 **Table of Contents**
 
+ 
 [Introduction](#introduction)
 | [Data Format](#data-format)
 | [Plot Options](#plot-options)

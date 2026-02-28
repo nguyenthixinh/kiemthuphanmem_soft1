@@ -5,6 +5,7 @@
 - Updated example code to avoid encouraging unnecessary re-plots.
   (patch by soenter, pull request #1221)
 
+
 ### Bug fixes ###
 
  - Added a work-around to disable the allocation of extra space for first and

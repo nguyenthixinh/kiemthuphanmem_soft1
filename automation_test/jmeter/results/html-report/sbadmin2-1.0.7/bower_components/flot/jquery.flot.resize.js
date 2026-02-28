@@ -9,6 +9,7 @@ resize event plugin) - if the size changes, it will redraw the plot.
 There are no options. If you need to disable the plugin for some plots, you
 can just fix the size of their placeholders.
 
+
 */
 
 /* Inline dependency:
