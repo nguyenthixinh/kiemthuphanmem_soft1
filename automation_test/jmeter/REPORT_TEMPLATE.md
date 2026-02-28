@@ -397,9 +397,8 @@ Chi tiết xem file `README.md` trong cùng thư mục.
 
 ---
 
-**Ngày hoàn thành báo cáo:** [Điền ngày]  
-**Chữ ký:** [Ký tên]
 
 ---
 
 _Template version 1.0 - Created for Software Testing Course_
+

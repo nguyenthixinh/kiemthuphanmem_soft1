@@ -49,3 +49,4 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1769388555870,5833,GET - Reddit Homepage,200,OK,Thread Group 1 - Basic Scenario 1-4,text,true,,571939,306,3,32,https://www.reddit.com/,595,0,0
 1769388557143,5614,GET - Reddit Homepage,200,OK,Thread Group 1 - Basic Scenario 1-7,text,true,,572175,306,2,30,https://www.reddit.com/,626,0,0
 1769388556877,10193,GET - Reddit Homepage,200,OK,Thread Group 1 - Basic Scenario 1-3,text,true,,572220,306,1,6,https://www.reddit.com/,791,0,0
+

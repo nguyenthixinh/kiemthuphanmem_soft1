@@ -403,6 +403,6 @@ cd C:\JMeter\apache-jmeter-5.6.3\bin
 
 ---
 
-**Chúc bạn thực hiện thành công! 🚀**
+**Chúc bạn thực hiện thành công! **
 
 > **Ghi chú:** Sau khi chạy xong test, sử dụng file `REPORT_TEMPLATE.md` để viết báo cáo kết quả đầy đủ.

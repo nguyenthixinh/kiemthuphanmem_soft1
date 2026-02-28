@@ -1,6 +1,6 @@
-# 🎉 JMeter Test Completed Successfully!
+#  JMeter Test Completed Successfully!
 
-## ✅ Kết Quả
+##  Kết Quả
 
 ### Files Đã Tạo:
 

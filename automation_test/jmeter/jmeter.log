@@ -384,3 +384,4 @@
 2026-01-26 07:49:31,943 INFO o.a.j.r.d.HtmlTemplateExporter: Report will be generated in: D:\Code_Projects\School\Courses\KiemThu\KiemThuPhanMem\automation_test\jmeter\results\html-report, creating folder structure
 2026-01-26 07:49:31,946 INFO o.a.j.r.d.TemplateVisitor: Copying folder from 'D:\App_Data\jmeter\apache-jmeter-5.6.3\bin\report-template' to 'D:\Code_Projects\School\Courses\KiemThu\KiemThuPhanMem\automation_test\jmeter\results\html-report', got message: D:\Code_Projects\School\Courses\KiemThu\KiemThuPhanMem\automation_test\jmeter\results\html-report, found non empty folder with following content [D:\Code_Projects\School\Courses\KiemThu\KiemThuPhanMem\automation_test\jmeter\results\html-report\statistics.json], will be ignored
 2026-01-26 07:49:32,332 INFO o.a.j.JMeter: Dashboard generated
+
