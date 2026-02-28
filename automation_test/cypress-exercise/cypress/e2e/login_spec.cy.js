@@ -1,4 +1,4 @@
-describe('Kiểm thử Đăng nhập', () => {
+describe('Kiểm thử đăng nhập', () => {
   it('Nên đăng nhập thành công với thông tin hợp lệ', () => {
     cy.visit('https://www.saucedemo.com');
     cy.get('#user-name').type('standard_user');

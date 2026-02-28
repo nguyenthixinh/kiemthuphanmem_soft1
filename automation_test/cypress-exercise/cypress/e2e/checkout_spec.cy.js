@@ -1,4 +1,4 @@
-describe('Kiểm thử Thanh toán', () => {
+describe('Kiểm thử thanh toán', () => {
   beforeEach(() => {
     cy.visit('https://www.saucedemo.com');
     cy.get('#user-name').type('standard_user');

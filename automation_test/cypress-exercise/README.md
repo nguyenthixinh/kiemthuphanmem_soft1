@@ -1,5 +1,6 @@
 # Bài tập thực hành kiểm thử tự động End-to-End với Cypress
 
+
 ## 📋 Mô tả dự án
 
 Dự án này là bài tập thực hành kiểm thử tự động End-to-End sử dụng Cypress để kiểm tra trang web [SauceDemo](https://www.saucedemo.com) - một ứng dụng demo cho thực hành kiểm thử tự động.

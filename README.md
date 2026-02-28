@@ -187,4 +187,4 @@ Nếu gặp vấn đề:
 
 ---
 
-**Chúc bạn thực hành thành công! 🎉**
+**Chúc bạn thực hành thành công! **

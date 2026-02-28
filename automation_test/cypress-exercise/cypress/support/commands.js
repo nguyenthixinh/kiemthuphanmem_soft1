@@ -8,6 +8,7 @@
 // https://on.cypress.io/custom-commands
 // ***********************************************
 
+
 // Custom command for login
 Cypress.Commands.add('login', (username = 'standard_user', password = 'secret_sauce') => {
   cy.visit('https://www.saucedemo.com');

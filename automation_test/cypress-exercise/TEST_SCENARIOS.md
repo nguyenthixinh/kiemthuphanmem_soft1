@@ -2,6 +2,7 @@
 
 ## 📖 Mục lục
 
+
 - [Kịch bản 1: Kiểm tra đăng nhập thành công](#kịch-bản-1-kiểm-tra-đăng-nhập-thành-công)
 - [Kịch bản 2: Kiểm tra đăng nhập thất bại](#kịch-bản-2-kiểm-tra-đăng-nhập-thất-bại)
 - [Kịch bản 3: Thêm sản phẩm vào giỏ hàng](#kịch-bản-3-thêm-sản-phẩm-vào-giỏ-hàng)
